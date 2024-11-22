@@ -1,0 +1,10 @@
+ body {
+  margin: 0;
+  padding: 0;
+   background:url(https://img.freepik.com/vector-premium/patron-transparente-vector-divertidos-capibaras-fondo-adorable-divertidos-capibaras-mandarinas-lindos-capibaras-nadando-agua-relajandose-mandarinas-patron-bano-capibara_616756-1558.jpg)
+}
+canvas {
+  display: block;
+  border-radius:100px;
+  box-shadow:0 0 9px peru;
+}
